@@ -1,3 +1,5 @@
+import { Preview } from "storybook-framework-qwik/*";
+
 const preview: Preview = {
   parameters: {
     actions: { argTypesRegex: "^on[A-Z].*" },
